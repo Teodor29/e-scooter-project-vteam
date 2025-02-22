@@ -35,7 +35,7 @@ To run the entire system locally with Docker, follow these steps:
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/PWKarlsson/vteam-project
+git clone https://github.com/Teodor29/e-scooter-project-vteam
 ```
 
 ### 2. Configure Environment Variables
