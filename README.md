@@ -44,12 +44,12 @@ Create a `.env` file in the root directory `vteam-project`, and add the followin
 
 ```
 # Global variables
-API_KEY="6b00bafa-4f70-463b-a4c3-1234c317a09f"
-ATLAS_USERNAME="pokr23"
-ATLAS_PASSWORD="ZGflIkHYako1vQiZ"
+API_KEY=<api key>
+ATLAS_USERNAME=<username>
+ATLAS_PASSWORD=<password>
 
 # Frontend
-VITE_API_KEY="6b00bafa-4f70-463b-a4c3-1234c317a09f"
+VITE_API_KEY=<api key>
 VITE_BASE_URL="http://localhost:5001"
 
 # Simulation
